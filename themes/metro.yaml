@@ -153,6 +153,9 @@ ________________________________________Common Base (Do Not Use): &common-colors
   # Layout
   masonry-view-card-margin: "2px 1px"
   grid-card-gap: "2px"
+  stack-card-gap: "2px"
+  horizontal-stack-card-gap: "2px" 
+  # Legacy
   stack-card-margin: "1px"
   horizontal-stack-card-margin: "1px"
 
